@@ -100,7 +100,7 @@ a.nav-link{
     z-index: 0;
 }
 .row {
-    background-image: url(/assets/img/slider/img3.jpg);
+    background-image: url(https://github.com/vuhuuson220803/vuhuuson1/blob/main/assets/img/slider/img3.jpg?raw=true);
 
     background-size: cover; /* Để ảnh nền đầy màn hình */
     background-position: center; /* Căn ảnh nền giữa màn hình */
